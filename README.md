@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Microsoft 365 developer with a strong focus on Office development, Azure, and the full gamut of DevOps.
+
 <!--
 **freerangeeggs/freerangeeggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
