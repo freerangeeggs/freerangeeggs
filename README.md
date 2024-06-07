@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Microsoft 365 developer with a passion for Office development, Azure, and the full gamut of DevOps.
+I am a .NET developer with a passion for Office development, Azure, and the full gamut of DevOps.
 
 <!--
 **freerangeeggs/freerangeeggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
